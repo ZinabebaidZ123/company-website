@@ -129,6 +129,9 @@ section{
 .banner .banner-content button{
     margin-top: 2rem;
 }
+.banner .banner-content button a{
+  text-decoration: none;
+}
 .banner .banner-content p{
     font-size: 1.25rem;
 }
